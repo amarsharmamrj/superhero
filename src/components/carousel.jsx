@@ -18,16 +18,16 @@ function Carousel2(props)
 
     var items = [
         {
-            url:"https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/727.jpg"
+            url:"https://www.superherodb.com/pictures2/portraits/10/100/727.jpg"
         },
         {
-            url: "https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/85.jpg"
+            url: "https://www.superherodb.com//pictures2/portraits/10/100/85.jpg"
         },
         {
-            url: "https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/667.jpg"
+            url: "https://www.superherodb.com/pictures2/portraits/10/100/667.jpg"
         },
         {
-            url: "https:\/\/www.superherodb.com\/pictures2\/portraits\/10\/100\/83.jpg"
+            url: "https://www.superherodb.com/pictures2/portraits/10/100/83.jpg"
         }
     ]
 
